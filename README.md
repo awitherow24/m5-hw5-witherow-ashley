@@ -4,4 +4,7 @@
 3. Changed Nav text color to white 
 4. Changed Footer text color to white
 5. Changed and added form-section h3 color to Black
+6. Changed font color of body text
+7. Changed font color of hero image text
+8. Added form labels for name, email, and message
 

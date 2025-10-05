@@ -6,7 +6,7 @@ html {
 body {
   margin: 0 auto;
   font-family: "Segoe UI", sans-serif;
-  color: #999;
+  color: black;
   backdrop-filter: blur(2px);
   -webkit-backdrop-filter: blur(2px);
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
@@ -39,7 +39,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: lightpink;
+  color: yellow;
   text-align: center;
 }
 
