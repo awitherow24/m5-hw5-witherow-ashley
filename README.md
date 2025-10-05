@@ -7,4 +7,5 @@
 6. Changed font color of body text
 7. Changed font color of hero image text
 8. Added form labels for name, email, and message
+9. Added input type and value for submit button
 
