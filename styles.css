@@ -46,6 +46,7 @@ body {
 .hero h1 {
   font-size: 48px;
   margin: 0;
+  background-color: lightpink;
 }
 
 .content {
